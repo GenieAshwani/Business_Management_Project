@@ -1,8 +1,7 @@
 package com.business.loginCredentials;
 
-import jakarta.validation.constraints.Email;
-import jakarta.validation.constraints.NotNull;
-
+import javax.persistence.*;
+import java.util.Date;
 public class UserLogin 
 {
 
